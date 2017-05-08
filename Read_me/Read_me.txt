@@ -1,0 +1,14 @@
+将phpstudy解压到C盘主目录下
+
+然后将网站文件全部放到解压后的phpstudy文件的WWW文件夹中，次文件夹为虚拟服务器地址
+
+phpstudy是一键环境部署软件
+
+然后运行phpstudy，启动服务器和数据库，运行状态均为绿灯即可
+
+然后将数据库文件导入到数据库中
+
+数据库管理页面http://localhost/phpMyAdmin/main.phptoken=1b2b3d1d44ced2649747b5903bd8fd08
+管理员默认账户密码均为root
+
+sublime text 为编码工具，比ecplise这种IDE牌面大多了
